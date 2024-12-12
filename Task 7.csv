@@ -1,0 +1,123 @@
+employeeid,employeename,technologies_covered,project_id
+309,"Aarush Mandal","AWS, Azure",13
+309,"Aarush Mandal","AWS, Azure",693
+983,"Badal Khanna","Power BI, Azure",589
+880,"Baiju Sastry","Azure, Cisco Routers",203
+576,"Bhavin Hari","AWS, Power BI",752
+794,"Charvi Mander","CCNA, Azure",48
+794,"Charvi Mander","Power BI, AWS",48
+794,"Charvi Mander","Cisco Routers, Azure",48
+794,"Charvi Mander","CCNA, Azure",902
+794,"Charvi Mander","Power BI, AWS",902
+794,"Charvi Mander","Cisco Routers, Azure",902
+143,"Dharmajan Lal","Cisco Routers, Power BI",305
+747,"Ela Thakkar","Power BI, CCNA",152
+578,"Eva Sarraf","Power BI, Cisco Routers",664
+111,"Hiran Sidhu","Cisco Routers, Azure",277
+111,"Hiran Sidhu","Cisco Routers, AWS",277
+111,"Hiran Sidhu","Power BI, CCNA",277
+111,"Hiran Sidhu","CCNA, Cisco Routers",277
+111,"Hiran Sidhu","CCNA, Cisco Routers",679
+111,"Hiran Sidhu","Cisco Routers, Azure",679
+111,"Hiran Sidhu","Power BI, CCNA",679
+111,"Hiran Sidhu","Cisco Routers, AWS",679
+111,"Hiran Sidhu","Cisco Routers, AWS",701
+111,"Hiran Sidhu","Power BI, CCNA",701
+111,"Hiran Sidhu","CCNA, Cisco Routers",701
+111,"Hiran Sidhu","Cisco Routers, Azure",701
+903,"Hridaan Divan","AWS, CCNA",198
+155,"Hrishita Kant","Cisco Routers, Azure",571
+938,"Indrajit Chander","Cisco Routers, CCNA",88
+938,"Indrajit Chander","Cisco Routers, CCNA",552
+831,"Indrans Reddy","Cisco Routers, CCNA",433
+897,"Ishita Edwin","AWS, Cisco Routers",827
+241,"Jayan Ramachandran","Cisco Routers, Power BI",356
+596,"Keya Wali","Azure, Cisco Routers",595
+872,"Kismat Goswami","Cisco Routers, Power BI",880
+520,"Krish Varughese","AWS, Azure",923
+879,"Mohanlal Borah","Cisco Routers, Azure",175
+181,"Nakul Batra","Azure, Cisco Routers",385
+145,"Nakul Bhatti","Cisco Routers, AWS",519
+575,"Neysa Sahota","Azure, AWS",744
+786,"Nishith Sastry","Azure, CCNA",298
+717,"Oorja Mahajan","Cisco Routers, Azure",174
+717,"Oorja Mahajan","CCNA, AWS",174
+717,"Oorja Mahajan","CCNA, Cisco Routers",174
+717,"Oorja Mahajan","Azure, AWS",174
+717,"Oorja Mahajan","CCNA, Cisco Routers",600
+717,"Oorja Mahajan","CCNA, AWS",600
+717,"Oorja Mahajan","Cisco Routers, Azure",600
+717,"Oorja Mahajan","Azure, AWS",600
+717,"Oorja Mahajan","Cisco Routers, Azure",603
+717,"Oorja Mahajan","CCNA, Cisco Routers",603
+717,"Oorja Mahajan","CCNA, AWS",603
+717,"Oorja Mahajan","Azure, AWS",603
+717,"Oorja Mahajan","CCNA, Cisco Routers",720
+717,"Oorja Mahajan","Azure, AWS",720
+717,"Oorja Mahajan","Cisco Routers, Azure",720
+717,"Oorja Mahajan","CCNA, AWS",720
+429,"Piya Deo","AWS, CCNA",59
+768,"Prerak Kannan","Cisco Routers, CCNA",272
+942,"Rasha Boase","Cisco Routers, Azure",850
+826,"Rasha Sama","CCNA, Power BI",656
+635,"Raunak Sarin","Power BI, Azure",238
+635,"Raunak Sarin","Power BI, Azure",808
+457,"Rhea Kothari","AWS, CCNA",624
+624,"Riaan Kunda","Power BI, Azure",123
+624,"Riaan Kunda","AWS, Azure",123
+624,"Riaan Kunda","Power BI, Cisco Routers",123
+624,"Riaan Kunda","Power BI, Cisco Routers",572
+624,"Riaan Kunda","Power BI, Azure",572
+624,"Riaan Kunda","AWS, Azure",572
+624,"Riaan Kunda","Power BI, Azure",640
+624,"Riaan Kunda","Power BI, Cisco Routers",640
+624,"Riaan Kunda","AWS, Azure",640
+624,"Riaan Kunda","Power BI, Azure",889
+624,"Riaan Kunda","AWS, Azure",889
+624,"Riaan Kunda","Power BI, Cisco Routers",889
+430,"Ryan Gill","Power BI, AWS",449
+370,"Saira Loyal","AWS, CCNA",498
+370,"Saira Loyal","CCNA, Cisco Routers",498
+370,"Saira Loyal","AWS, Power BI",498
+370,"Saira Loyal","AWS, Cisco Routers",498
+370,"Saira Loyal","AWS, Power BI",501
+370,"Saira Loyal","AWS, Cisco Routers",501
+370,"Saira Loyal","AWS, CCNA",501
+370,"Saira Loyal","CCNA, Cisco Routers",501
+370,"Saira Loyal","AWS, Power BI",658
+370,"Saira Loyal","AWS, Cisco Routers",658
+370,"Saira Loyal","AWS, CCNA",658
+370,"Saira Loyal","CCNA, Cisco Routers",658
+370,"Saira Loyal","AWS, CCNA",983
+370,"Saira Loyal","AWS, Power BI",983
+370,"Saira Loyal","AWS, Cisco Routers",983
+370,"Saira Loyal","CCNA, Cisco Routers",983
+593,"Sara Sibal","AWS, Power BI",726
+593,"Sara Sibal","AWS, Power BI",992
+813,"Sara Vohra","Azure, CCNA",355
+813,"Sara Vohra","CCNA, Power BI",355
+344,"Seher Kara","Cisco Routers, CCNA",186
+671,"Shamik Bhardwaj","CCNA, Cisco Routers",304
+659,"Shamik Wali","CCNA, Power BI",979
+659,"Shamik Wali","CCNA, Cisco Routers",979
+471,"Stuvan Dixit","CCNA, Azure",996
+455,"Tushar Dalal","AWS, Cisco Routers",84
+262,"Vaibhav Sidhu","CCNA, Power BI",116
+262,"Vaibhav Sidhu","Azure, Cisco Routers",116
+262,"Vaibhav Sidhu","Azure, CCNA",116
+262,"Vaibhav Sidhu","Power BI, AWS",116
+262,"Vaibhav Sidhu","Azure, CCNA",339
+262,"Vaibhav Sidhu","CCNA, Power BI",339
+262,"Vaibhav Sidhu","Azure, Cisco Routers",339
+262,"Vaibhav Sidhu","Power BI, AWS",339
+262,"Vaibhav Sidhu","Azure, CCNA",632
+262,"Vaibhav Sidhu","CCNA, Power BI",632
+262,"Vaibhav Sidhu","Azure, Cisco Routers",632
+262,"Vaibhav Sidhu","Power BI, AWS",632
+262,"Vaibhav Sidhu","Azure, Cisco Routers",783
+262,"Vaibhav Sidhu","Power BI, AWS",783
+262,"Vaibhav Sidhu","CCNA, Power BI",783
+262,"Vaibhav Sidhu","Azure, CCNA",783
+569,"Yashvi Ramakrishnan","Cisco Routers, Power BI",890
+888,"Zain Karan","CCNA, Cisco Routers",352
+563,"Zoya Badal","Azure, Power BI",460
